@@ -1,3 +1,5 @@
+// GARANTE APENAS UMA INSTÂNCIA DE CONFIGURAÇÃO
+
 class Configuracao {
     constructor() {
         if(Configuracao.instancia) {
