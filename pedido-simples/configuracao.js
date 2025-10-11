@@ -1,3 +1,5 @@
+// PADRÃO SINGLETON
+
 // GARANTE APENAS UMA INSTÂNCIA DE CONFIGURAÇÃO
 
 class Configuracao {

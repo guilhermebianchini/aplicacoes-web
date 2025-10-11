@@ -1,3 +1,5 @@
+// OBSERVER
+
 class Observador {
     constructor() {
         this.inscritos = []

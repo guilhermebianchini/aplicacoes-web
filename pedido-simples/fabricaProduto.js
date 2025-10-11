@@ -1,3 +1,5 @@
+// PADRÃO FACTORY
+
 function criarProduto(tipo, nome, preco) {
     if (tipo === "eletronico") {
         return {tipo, nome, preco, garantiaMeses: 12}

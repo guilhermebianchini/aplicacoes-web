@@ -1,3 +1,5 @@
+// PADRÃO STRATEGY
+
 class EstrategiaDesconto {
     calcular(preco) {
         return preco
