@@ -1,4 +1,4 @@
-// OBSERVER
+// PADRÃO OBSERVER
 
 class Observador {
     constructor() {

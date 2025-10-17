@@ -10,4 +10,4 @@ function criarProduto(tipo, nome, preco) {
     }
 }
 
-MediaSourceHandle.exports = {criarProduto}
+module.exports = {criarProduto}

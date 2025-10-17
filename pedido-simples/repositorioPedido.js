@@ -1,4 +1,4 @@
-// REPOSITORY
+// PADRÃO REPOSITORY
 
 class RepositorioPedido {
     constructor() {
